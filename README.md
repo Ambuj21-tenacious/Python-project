@@ -1,1 +1,2 @@
 # Python-project
+Tic-Tac-Toe is a simple two-player game where players alternate marking "X" or "O" on a 3x3 grid. The goal is to get three of your marks in a row—horizontally, vertically, or diagonally. In Python, the game can be implemented using a 2D list to represent the board, with functions to handle player moves, check for a winner, and alternate turns. The game continues until one player wins or the board is full, resulting in a draw. It's a great beginner project to practice loops, conditionals, and user input handling in Python.
